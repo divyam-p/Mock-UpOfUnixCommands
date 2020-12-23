@@ -1,3 +1,13 @@
+# Getting Started 
+>> Step 1 
+* clone the repo with "git clone https://github.com/divyam-p/UnixCommands" 
+>> Step 2 
+* open project with an Java IDE, example Eclipse 
+>> Step 3 
+* run the program and you are DONE! 
+
+>> note: When initially cloning, for "speak" command, you may find that there is an error due to not having a java library installed, therefore, you need to get the java library for converting code into audible sound. 
+
 # Description 
 >> This is a replication project for unix commands. Some commands that can be used include : 
 * man CMD 
@@ -62,6 +72,8 @@
 * speak STRING 
   * speaks the appropriate STRING as audible sound from computer 
   
-  
-
-  
+# Acknowledgements 
+Made By: 
+* Divyam Patel 
+* Aryan Patel 
+* Samyak Mehta
