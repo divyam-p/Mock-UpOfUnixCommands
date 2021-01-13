@@ -8,11 +8,11 @@
 
 >> NOTE: 
 * When initially cloning, for "speak" command, you may find that there is an error due to not having a java library installed, therefore, you need to get the java library for converting code into audible sound. However, the rest of the commands can still be used by just continuing with the error. 
- * I can't seem to find the exact library that allows the audible sound, I will update this once I find it. 
+  * I can't seem to find the exact library that allows the audible sound, I will update this once I find it. 
 * Also, might have to import the Junit library which can be done by: 
- * right clicking the project
- * selecting "Build Path", and then "Configure Build Path..."
- * lastly, go under "Java Build Path" on the left side, then "Libraries" and then "Add Library...", select "Junit" and you are done! 
+  * right clicking the project
+  * selecting "Build Path", and then "Configure Build Path..."
+  * lastly, go under "Java Build Path" on the left side, then "Libraries" and then "Add Library...", select "Junit" and you are done! 
 
 # Description 
 >> This is a replication project for unix commands. Some commands that can be used include : 
