@@ -14,6 +14,10 @@
   * selecting "Build Path", and then "Configure Build Path..."
   * lastly, go under "Java Build Path" on the left side, then "Libraries" and then "Add Library...", select "Junit" and you are done! 
 
+# Built With 
+* Java 
+* Eclipse IDE 
+
 # Description 
 >> This is a replication project for unix commands. Some commands that can be used include : 
 * man CMD 
