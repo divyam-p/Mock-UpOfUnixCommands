@@ -1,6 +1,6 @@
 # Getting Started 
 >> Step 1 
-* clone the repo with "git clone https://github.com/divyam-p/UnixCommands" 
+* clone the repo with "git clone https://github.com/divyam-p/Mock-UpOfUnixCommands" 
 >> Step 2 
 * open project with an Java IDE, example Eclipse 
 >> Step 3 
